@@ -1,12 +1,12 @@
 # Hi 👋, I'm Bhaskar Reddy
 
 **Lead Software Developer | AI Product Engineer**
-Building high-performance enterprise web, mobile, and AI-powered applications. Currently focusing on AI integrations, Agentic systems, and robust backend architectures.
+Building high-performance enterprise web, mobile, and AI-powered applications. I specialize in combining a strong core in JavaScript and logical engineering with modern AI-assisted development workflows to build robust systems.
 
 ---
 
 ### 🚀 Current Focus & What I'm Building
-- **⭐ [VoxScribe](https://github.com/BossKiller0/VoxScribe)** - Desktop AI Dictation Assistant (Electron + React + TypeScript + Local/Cloud LLM Cleanup).
+- **⭐ [VoxScribe](https://github.com/BossKiller0/VoxScribe)** - Desktop AI Dictation Assistant (Electron + React + TypeScript). Built end-to-end using AI-assisted coding (agent-led workflows & prompting) guided by solid JavaScript foundations and logical system architecture.
 - **⏳ NearMe Public Demo** - Location-based application.
 - **🧠 Personal AI Memory & RAG Knowledge Base** - Structured vector database and semantic retrieval systems.
 
@@ -25,16 +25,10 @@ Building high-performance enterprise web, mobile, and AI-powered applications. C
 **Lead Software Developer** @ **Technocompass** *(2020 - Present)*
 - Leading frontend architecture, Angular migration, and mentoring development teams.
 - Designing and implementing highly scalable and interactive user interfaces.
-- Integrating AI-assisted coding practices and tools to optimize delivery cycles.
-
----
-
-### 📊 GitHub Stats
-![Bhaskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BossKiller0&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BossKiller0&layout=compact&theme=dark)
+- Expertly leveraging AI-assisted coding methodologies (white-box prompting and code agents) to accelerate development cycles and runtime integration.
 
 ---
 
 ### 📬 Connect with Me
-- [LinkedIn](https://linkedin.com)
-- [Email](mailto:reddybhaskar.dev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/bhaskarreddydn/)
+- [Email](mailto:bhaskarreddydn@outlook.com)
